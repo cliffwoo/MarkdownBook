@@ -1,0 +1,2123 @@
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.2.12)  13 FEB 2013 07:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/private/tmp/progit/latex/zh/main.tex
+(/private/tmp/progit/latex/zh/main.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ba
+sque, danish, dutch, ukenglish, usenglishmax, finnish, french, german, ngerman,
+ swissgerman, hungarian, italian, bokmal, nynorsk, polish, portuguese, spanish,
+ swedish, loaded.
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.s
+ty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/generic/oberdiek/hobsub-generic.st
+y
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2012basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count91
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/xelatex/xetexconfig/hyperref.cfg
+File: hyperref.cfg 2008/07/11 v1.2 hyperref configuration for XeLaTeX
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 3941.
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4300.
+\c@Hy@tempcnt=\count92
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4653.
+\Fld@menulength=\count93
+\Field@Width=\dimen104
+\Fld@charsize=\dimen105
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring ON on input line 5791.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2012/05/13 v6.82q Hyperref driver for XeTeX
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/05/13 v6.82q Hyperref: PDF Unicode definition (HO)
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box26
+\c@Hy@AnnotLevel=\count97
+\HyField@AnnotCount=\count98
+\Fld@listcount=\count99
+\c@bookmark@seq@number=\count100
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip43
+) (/usr/local/texlive/2012basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/xltxtra/xltxtra.sty
+Package: xltxtra 2010/09/20 v0.5e Improvements for the "XeLaTeX" format
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2012/05/06 v2.2b Advanced font selection for XeLaTeX/LuaLaTeX
+
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3names.sty
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
+Package: l3bootstrap 2011/12/29 v3110 L3 Experimental bootstrap code
+)
+Package: l3names 2012/03/04 v3494 L3 Experimental namespace for primitives
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count101
+)
+Package: expl3 2012/04/23 v3570 L3 Experimental code bundle wrapper
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 130.
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3basics.sty
+Package: l3basics 2012/03/04 v3491 L3 Experimental basic definitions
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3expan.sty
+Package: l3expan 2012/02/26 v3460 L3 Experimental argument expansion
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3tl.sty
+Package: l3tl 2012/03/04 v3490 L3 Experimental token lists
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3seq.sty
+Package: l3seq 2012/03/04 v3490 L3 Experimental sequences and stacks
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3int.sty
+Package: l3int 2012/03/04 v3490 L3 Experimental integers
+\c_max_int=\count102
+\l_tmpa_int=\count103
+\l_tmpb_int=\count104
+\l_tmpc_int=\count105
+\g_tmpa_int=\count106
+\g_tmpb_int=\count107
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3quark.sty
+Package: l3quark 2012/02/12 v3384 L3 Experimental quarks
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3prg.sty
+Package: l3prg 2012/03/04 v3490 L3 Experimental control structures
+\g_prg_map_int=\count108
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3clist.sty
+Package: l3clist 2012/03/04 v3490 L3 Experimental comma separated lists
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3token.sty
+Package: l3token 2012/03/04 v3491 L3 Experimental token manipulation
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3prop.sty
+Package: l3prop 2012/03/04 v3490 L3 Experimental property lists
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3msg.sty
+Package: l3msg 2012/04/23 v3568 L3 Experimental messages
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3file.sty
+Package: l3file 2012/03/09 v3520 L3 Experimental file and I/O operations
+\l_iow_stream_int=\count109
+\l_iow_line_length_int=\count110
+\l_iow_target_length_int=\count111
+\l_iow_current_line_int=\count112
+\l_iow_current_word_int=\count113
+\l_iow_current_indentation_int=\count114
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3skip.sty
+Package: l3skip 2012/03/05 v3499 L3 Experimental dimensions and skips
+\l_tmpa_dim=\dimen108
+\l_tmpb_dim=\dimen109
+\l_tmpc_dim=\dimen110
+\g_tmpa_dim=\dimen111
+\g_tmpb_dim=\dimen112
+\l_tmpa_skip=\skip44
+\l_tmpb_skip=\skip45
+\l_tmpc_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3keys.sty
+Package: l3keys 2012/03/03 v3487 L3 Experimental key-value interfaces
+\g_keyval_level_int=\count115
+\l_keys_choice_int=\count116
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3fp.sty
+Package: l3fp 2012/03/04 v3490 L3 Experimental floating-point operations
+\c_one_hundred_million=\count117
+\c_five_hundred_million=\count118
+\c_one_thousand_million=\count119
+\c_fp_pi_by_four_decimal_int=\count120
+\c_fp_pi_by_four_extended_int=\count121
+\c_fp_pi_decimal_int=\count122
+\c_fp_pi_extended_int=\count123
+\c_fp_two_pi_decimal_int=\count124
+\c_fp_two_pi_extended_int=\count125
+\l_fp_count_int=\count126
+\l_fp_div_offset_int=\count127
+\l_fp_exp_integer_int=\count128
+\l_fp_exp_decimal_int=\count129
+\l_fp_exp_extended_int=\count130
+\l_fp_exp_exponent_int=\count131
+\l_fp_input_a_sign_int=\count132
+\l_fp_input_a_integer_int=\count133
+\l_fp_input_a_decimal_int=\count134
+\l_fp_input_a_exponent_int=\count135
+\l_fp_input_b_sign_int=\count136
+\l_fp_input_b_integer_int=\count137
+\l_fp_input_b_decimal_int=\count138
+\l_fp_input_b_exponent_int=\count139
+\l_fp_input_a_extended_int=\count140
+\l_fp_input_b_extended_int=\count141
+\l_fp_mul_a_i_int=\count142
+\l_fp_mul_a_ii_int=\count143
+\l_fp_mul_a_iii_int=\count144
+\l_fp_mul_a_iv_int=\count145
+\l_fp_mul_a_v_int=\count146
+\l_fp_mul_a_vi_int=\count147
+\l_fp_mul_b_i_int=\count148
+\l_fp_mul_b_ii_int=\count149
+\l_fp_mul_b_iii_int=\count150
+\l_fp_mul_b_iv_int=\count151
+\l_fp_mul_b_v_int=\count152
+\l_fp_mul_b_vi_int=\count153
+\l_fp_mul_output_int=\count154
+\l_fp_output_sign_int=\count155
+\l_fp_output_integer_int=\count156
+\l_fp_output_decimal_int=\count157
+\l_fp_output_exponent_int=\count158
+\l_fp_output_extended_int=\count159
+\l_fp_round_position_int=\count160
+\l_fp_round_target_int=\count161
+\l_fp_split_sign_int=\count162
+\l_fp_internal_int=\count163
+\l_fp_trig_octant_int=\count164
+\l_fp_trig_sign_int=\count165
+\l_fp_trig_decimal_int=\count166
+\l_fp_trig_extended_int=\count167
+\l_fp_internal_dim=\dimen113
+\l_fp_internal_skip=\skip49
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3box.sty
+Package: l3box 2012/03/04 v3490 L3 Experimental boxes
+\l_tmpb_box=\box27
+\l_box_top_dim=\dimen114
+\l_box_bottom_dim=\dimen115
+\l_box_left_dim=\dimen116
+\l_box_right_dim=\dimen117
+\l_box_top_new_dim=\dimen118
+\l_box_bottom_new_dim=\dimen119
+\l_box_left_new_dim=\dimen120
+\l_box_right_new_dim=\dimen121
+\l_box_internal_box=\box28
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3coffins.sty
+Package: l3coffins 2012/03/03 v3482 L3 Experimental coffin code layer
+\l_coffin_internal_box=\box29
+\l_coffin_internal_dim=\dimen122
+\l_coffin_offset_x_dim=\dimen123
+\l_coffin_offset_y_dim=\dimen124
+\l_coffin_x_dim=\dimen125
+\l_coffin_y_dim=\dimen126
+\l_coffin_x_prime_dim=\dimen127
+\l_coffin_y_prime_dim=\dimen128
+\l_coffin_Depth_dim=\dimen129
+\l_coffin_Height_dim=\dimen130
+\l_coffin_TotalHeight_dim=\dimen131
+\l_coffin_Width_dim=\dimen132
+\c_empty_coffin=\box30
+\l_coffin_aligned_coffin=\box31
+\l_coffin_aligned_internal_coffin=\box32
+\l_coffin_bounding_shift_dim=\dimen133
+\l_coffin_left_corner_dim=\dimen134
+\l_coffin_right_corner_dim=\dimen135
+\l_coffin_bottom_corner_dim=\dimen136
+\l_coffin_top_corner_dim=\dimen137
+\l_coffin_scaled_total_height_dim=\dimen138
+\l_coffin_scaled_width_dim=\dimen139
+\l_coffin_display_coffin=\box33
+\l_coffin_display_coord_coffin=\box34
+\l_coffin_display_pole_coffin=\box35
+\l_coffin_display_offset_dim=\dimen140
+\l_coffin_display_x_dim=\dimen141
+\l_coffin_display_y_dim=\dimen142
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3color.sty
+Package: l3color 2011/09/07 v2776 L3 Experimental colour support
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3kernel/l3luatex.sty
+Package: l3luatex 2012/02/09 v3355 L3 Experimental LuaTeX-specific functions
+\g_cctab_allocate_int=\count168
+\g_cctab_stack_int=\count169
+))
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2012/04/23 v3570 L3 Experimental document command parser
+\l_xparse_current_arg_int=\count170
+\l_xparse_m_args_int=\count171
+\l_xparse_mandatory_args_int=\count172
+\l_xparse_processor_int=\count173
+\l_xparse_v_nesting_int=\count174
+)
+\l_fontspec_script_int=\count175
+\l_fontspec_language_int=\count176
+\l_fontspec_strnum_int=\count177
+\l_fontspec_tmpa_dim=\dimen143
+\l_fontspec_tmpb_dim=\dimen144
+\l_fontspec_tmpc_dim=\dimen145
+Variant \tl_gset:cV already defined; not changing it on line 66
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/fontspec/fontspec-patches.st
+y
+Package: fontspec-patches 2012/05/06 v2.2b Advanced font selection for XeLaTeX/
+LuaLaTeX
+ (/usr/local/texlive/2012basic/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+)
+LaTeX Info: Redefining \em on input line 22.
+LaTeX Info: Redefining \emph on input line 29.
+LaTeX Info: Redefining \- on input line 32.
+
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \oldstylenums with arg. spec. 'm' on line 107.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \liningnums with arg. spec. 'm' on line 111.
+.................................................
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2012/05/06 v2.2b Advanced font selection for XeLaTeX/Lu
+aLaTeX
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/local/texlive/2012basic/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/euenc/eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count178
+\tipasavetokens=\toks15
+\tipachecktokens=\toks16
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fontspec with arg. spec. 'O{}m' on line 39.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmainfont with arg. spec. 'O{}m' on line 43.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setsansfont with arg. spec. 'O{}m' on line 47.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmonofont with arg. spec. 'O{}m' on line 51.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathrm with arg. spec. 'O{}m' on line 59.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setboldmathrm with arg. spec. 'O{}m' on line 62.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathsf with arg. spec. 'O{}m' on line 65.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathtt with arg. spec. 'O{}m' on line 68.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfamily with arg. spec. 'mO{}m' on line 84.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontface with arg. spec. 'mO{}m' on line 87.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \defaultfontfeatures with arg. spec. 'm' on line
+. 91.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \addfontfeatures with arg. spec. 'm' on line 107.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfeature with arg. spec. 'mm' on line 118.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newAATfeature with arg. spec. 'mmmm' on line 125.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newICUfeature with arg. spec. 'mmm' on line 132.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeature with arg. spec. 'mm' on line
+. 159.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeatureoption with arg. spec. 'mmm' on
+. line 164.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontscript with arg. spec. 'mm' on line 169.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontlanguage with arg. spec. 'mm' on line 192.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareFontsExtensions with arg. spec. 'm' on
+. line 211.
+.................................................
+Variant \prop_gput:cnV already defined; not changing it on line 485
+Variant \prop_gput:cnx already defined; not changing it on line 486
+\l_fontspec_tmp_int=\count179
+LaTeX Info: Redefining \itshape on input line 1893.
+LaTeX Info: Redefining \slshape on input line 1897.
+LaTeX Info: Redefining \scshape on input line 1901.
+LaTeX Info: Redefining \upshape on input line 1905.
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2010/09/30 v0.3 Access OpenType subscripts and superscript
+s
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fakesubscript with arg. spec. 'm' on line 19.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fakesuperscript with arg. spec. 'm' on line 22.
+.................................................
+
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \textsubscript with arg. spec. 's' on line 25.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \textsuperscript with arg. spec. 's' on line 28.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \realsubscript with arg. spec. 'm' on line 45.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \realsuperscript with arg. spec. 'm' on line 60.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \textsubsuperscript with arg. spec. 'sO{l}mm' on
+. line 137.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \textsupersubscript with arg. spec. 'sO{l}mm' on
+. line 140.
+.................................................
+\subsupersep=\dimen146
+) (/usr/local/texlive/2012basic/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks17
+\xl@@everylogo=\toks18
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\xxt@tempbox=\box36
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip50
+\f@ncyO@elh=\skip51
+\f@ncyO@erh=\skip52
+\f@ncyO@olh=\skip53
+\f@ncyO@orh=\skip54
+\f@ncyO@elf=\skip55
+\f@ncyO@erf=\skip56
+\f@ncyO@olf=\skip57
+\f@ncyO@orf=\skip58
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen147
+\lightrulewidth=\dimen148
+\cmidrulewidth=\dimen149
+\belowrulesep=\dimen150
+\belowbottomsep=\dimen151
+\aboverulesep=\dimen152
+\abovetopsep=\dimen153
+\cmidrulesep=\dimen154
+\cmidrulekern=\dimen155
+\defaultaddspace=\dimen156
+\@cmidla=\count180
+\@cmidlb=\count181
+\@aboverulesep=\dimen157
+\@belowrulesep=\dimen158
+\@thisruleclass=\count182
+\@lastruleclass=\count183
+\@thisrulewidth=\dimen159
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip59
+\fb@frw=\dimen160
+\fb@frh=\dimen161
+\FrameRule=\dimen162
+\FrameSep=\dimen163
+)
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font STHeiti does not contain any OpenType `Script' information.
+.................................................
+\g_fontspec_family_STHeiti_int=\count184
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STHeiti/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STHeiti/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STHeiti(0)' created for font 'STHeiti' with options
+. [Mapping=tex-text,BoldFont=STHeiti].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"STHeiti/AAT:mapping=tex-text;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"STHeiti/AAT:mapping=tex-text;"
+.................................................
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font STHeiti does not contain any OpenType `Script' information.
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STHeiti/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STHeiti/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STHeiti/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STHeiti(1)' created for font 'STHeiti' with options
+. [Scale=.85].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->s*[.85]"STHeiti/AAT:"
+.................................................
+\c@img=\count185
+\c@tab=\count186
+
+(/private/tmp/progit/latex/zh/main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 134.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 134.
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 134.
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring ON on input line 134.
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/generic/oberdiek/gettitlestring.st
+y
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count187
+)
+LaTeX Info: Redefining \ref on input line 134.
+LaTeX Info: Redefining \pageref on input line 134.
+LaTeX Info: Redefining \nameref on input line 134.
+ (/private/tmp/progit/latex/zh/main.out)
+(/private/tmp/progit/latex/zh/main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 134.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 134.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 134.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 134.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 134.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 134.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 134.
+LaTeX Font Info:    Redeclaring math accent \check on input line 134.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 134.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 134.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 134.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 134.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 134.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/STHeiti(0)/m/n on input line 134.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 134.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/STHeiti(0)/m/n on input line 134.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/STHeiti(0)/m/n --> EU1/STHeiti(0)/m/n on input line
+ 134.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  EU1/STHeiti(0)/m/n --> EU1/STHeiti(0)/m/n on input line
+ 134.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/STHeiti(0)/m/it on input line 134.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/STHeiti(0)/bx/n on input line 134.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 134.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/STHeiti(1)/m/n on input line 134.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/STHeiti(0)/m/n --> EU1/STHeiti(0)/bx/n on input lin
+e 134.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  EU1/STHeiti(0)/m/n --> EU1/STHeiti(0)/bx/n on input lin
+e 134.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/STHeiti(0)/bx/it on input line 13
+4.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 134.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/STHeiti(1)/bx/n on input line 134.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 137.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 137.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 137.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 137.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 137.
+LaTeX Font Info:    Font shape `EU1/STHeiti(1)/m/n' will be
+(Font)              scaled to size 7.65005pt on input line 137.
+
+(/usr/local/texlive/2012basic/texmf-dist/tex/generic/oberdiek/se-ascii-print.de
+f
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+
+) [1
+
+
+
+] [2
+
+] (/private/tmp/progit/latex/zh/main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+ [3] [4]
+Overfull \hbox (1.1195pt too wide) detected at line 118
+ []\EU1/STHeiti(0)/bx/n/10 100
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 119
+ []\EU1/STHeiti(0)/bx/n/10 100
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 120
+ []\EU1/STHeiti(0)/bx/n/10 100
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 121
+ []\EU1/STHeiti(0)/bx/n/10 101
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 122
+ []\EU1/STHeiti(0)/bx/n/10 103
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 123
+ []\EU1/STHeiti(0)/bx/n/10 103
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 124
+ []\EU1/STHeiti(0)/bx/n/10 104
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 125
+ []\EU1/STHeiti(0)/bx/n/10 105
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 126
+ []\EU1/STHeiti(0)/bx/n/10 105
+ []
+
+[5]
+Overfull \hbox (1.1195pt too wide) detected at line 127
+ []\EU1/STHeiti(0)/bx/n/10 105
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 129
+ []\EU1/STHeiti(0)/bx/n/10 107
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 130
+ []\EU1/STHeiti(0)/bx/n/10 107
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 131
+ []\EU1/STHeiti(0)/bx/n/10 108
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 132
+ []\EU1/STHeiti(0)/bx/n/10 109
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 133
+ []\EU1/STHeiti(0)/bx/n/10 109
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 134
+ []\EU1/STHeiti(0)/bx/n/10 110
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 135
+ []\EU1/STHeiti(0)/bx/n/10 111
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 136
+ []\EU1/STHeiti(0)/bx/n/10 116
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 137
+ []\EU1/STHeiti(0)/bx/n/10 121
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 138
+ []\EU1/STHeiti(0)/bx/n/10 124
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 139
+ []\EU1/STHeiti(0)/bx/n/10 127
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 140
+ []\EU1/STHeiti(0)/bx/n/10 127
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 141
+ []\EU1/STHeiti(0)/bx/n/10 127
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 142
+ []\EU1/STHeiti(0)/bx/n/10 128
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 143
+ []\EU1/STHeiti(0)/bx/n/10 128
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 144
+ []\EU1/STHeiti(0)/bx/n/10 128
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 145
+ []\EU1/STHeiti(0)/bx/n/10 131
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 146
+ []\EU1/STHeiti(0)/bx/n/10 131
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 147
+ []\EU1/STHeiti(0)/bx/n/10 133
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 148
+ []\EU1/STHeiti(0)/bx/n/10 133
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 149
+ []\EU1/STHeiti(0)/bx/n/10 135
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 150
+ []\EU1/STHeiti(0)/bx/n/10 136
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 151
+ []\EU1/STHeiti(0)/bx/n/10 136
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 152
+ []\EU1/STHeiti(0)/bx/n/10 138
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 153
+ []\EU1/STHeiti(0)/bx/n/10 138
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 154
+ []\EU1/STHeiti(0)/bx/n/10 139
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 155
+ []\EU1/STHeiti(0)/bx/n/10 139
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 157
+ []\EU1/STHeiti(0)/bx/n/10 141
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 158
+ []\EU1/STHeiti(0)/bx/n/10 141
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 159
+ []\EU1/STHeiti(0)/bx/n/10 141
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 160
+ []\EU1/STHeiti(0)/bx/n/10 142
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 161
+ []\EU1/STHeiti(0)/bx/n/10 143
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 162
+ []\EU1/STHeiti(0)/bx/n/10 143
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 163
+ []\EU1/STHeiti(0)/bx/n/10 144
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 164
+ []\EU1/STHeiti(0)/bx/n/10 146
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 165
+ []\EU1/STHeiti(0)/bx/n/10 146
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 166
+ []\EU1/STHeiti(0)/bx/n/10 147
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 167
+ []\EU1/STHeiti(0)/bx/n/10 148
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 168
+ []\EU1/STHeiti(0)/bx/n/10 148
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 169
+ []\EU1/STHeiti(0)/bx/n/10 149
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 170
+ []\EU1/STHeiti(0)/bx/n/10 151
+ []
+
+[6]
+Overfull \hbox (1.1195pt too wide) detected at line 171
+ []\EU1/STHeiti(0)/bx/n/10 152
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 172
+ []\EU1/STHeiti(0)/bx/n/10 153
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 173
+ []\EU1/STHeiti(0)/bx/n/10 155
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 174
+ []\EU1/STHeiti(0)/bx/n/10 155
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 175
+ []\EU1/STHeiti(0)/bx/n/10 156
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 176
+ []\EU1/STHeiti(0)/bx/n/10 156
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 177
+ []\EU1/STHeiti(0)/bx/n/10 157
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 178
+ []\EU1/STHeiti(0)/bx/n/10 158
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 179
+ []\EU1/STHeiti(0)/bx/n/10 159
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 180
+ []\EU1/STHeiti(0)/bx/n/10 160
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 181
+ []\EU1/STHeiti(0)/bx/n/10 161
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 182
+ []\EU1/STHeiti(0)/bx/n/10 161
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 183
+ []\EU1/STHeiti(0)/bx/n/10 161
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 184
+ []\EU1/STHeiti(0)/bx/n/10 162
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 185
+ []\EU1/STHeiti(0)/bx/n/10 162
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 186
+ []\EU1/STHeiti(0)/bx/n/10 162
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 187
+ []\EU1/STHeiti(0)/bx/n/10 164
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 188
+ []\EU1/STHeiti(0)/bx/n/10 165
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 189
+ []\EU1/STHeiti(0)/bx/n/10 166
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 190
+ []\EU1/STHeiti(0)/bx/n/10 168
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 191
+ []\EU1/STHeiti(0)/bx/n/10 170
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 192
+ []\EU1/STHeiti(0)/bx/n/10 170
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 193
+ []\EU1/STHeiti(0)/bx/n/10 172
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 194
+ []\EU1/STHeiti(0)/bx/n/10 174
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 196
+ []\EU1/STHeiti(0)/bx/n/10 175
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 197
+ []\EU1/STHeiti(0)/bx/n/10 175
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 198
+ []\EU1/STHeiti(0)/bx/n/10 176
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 199
+ []\EU1/STHeiti(0)/bx/n/10 176
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 200
+ []\EU1/STHeiti(0)/bx/n/10 177
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 201
+ []\EU1/STHeiti(0)/bx/n/10 177
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 202
+ []\EU1/STHeiti(0)/bx/n/10 177
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 203
+ []\EU1/STHeiti(0)/bx/n/10 178
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 204
+ []\EU1/STHeiti(0)/bx/n/10 178
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 205
+ []\EU1/STHeiti(0)/bx/n/10 178
+ []
+
+LaTeX Font Info:    Font shape `EU1/STHeiti(1)/m/n' will be
+(Font)              scaled to size 8.50006pt on input line 206.
+
+Overfull \hbox (1.1195pt too wide) detected at line 206
+ []\EU1/STHeiti(0)/bx/n/10 178
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 207
+ []\EU1/STHeiti(0)/bx/n/10 179
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 208
+ []\EU1/STHeiti(0)/bx/n/10 181
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 209
+ []\EU1/STHeiti(0)/bx/n/10 181
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 210
+ []\EU1/STHeiti(0)/bx/n/10 182
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 211
+ []\EU1/STHeiti(0)/bx/n/10 183
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 212
+ []\EU1/STHeiti(0)/bx/n/10 183
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 213
+ []\EU1/STHeiti(0)/bx/n/10 183
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 214
+ []\EU1/STHeiti(0)/bx/n/10 183
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 215
+ []\EU1/STHeiti(0)/bx/n/10 184
+ []
+
+[7]
+Overfull \hbox (1.1195pt too wide) detected at line 216
+ []\EU1/STHeiti(0)/bx/n/10 184
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 217
+ []\EU1/STHeiti(0)/bx/n/10 184
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 218
+ []\EU1/STHeiti(0)/bx/n/10 184
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 219
+ []\EU1/STHeiti(0)/bx/n/10 186
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 220
+ []\EU1/STHeiti(0)/bx/n/10 189
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 221
+ []\EU1/STHeiti(0)/bx/n/10 189
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 222
+ []\EU1/STHeiti(0)/bx/n/10 189
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 223
+ []\EU1/STHeiti(0)/bx/n/10 190
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 224
+ []\EU1/STHeiti(0)/bx/n/10 190
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 225
+ []\EU1/STHeiti(0)/bx/n/10 190
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 226
+ []\EU1/STHeiti(0)/bx/n/10 191
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 227
+ []\EU1/STHeiti(0)/bx/n/10 191
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 228
+ []\EU1/STHeiti(0)/bx/n/10 191
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 229
+ []\EU1/STHeiti(0)/bx/n/10 191
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 230
+ []\EU1/STHeiti(0)/bx/n/10 192
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 231
+ []\EU1/STHeiti(0)/bx/n/10 192
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 232
+ []\EU1/STHeiti(0)/bx/n/10 192
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 233
+ []\EU1/STHeiti(0)/bx/n/10 192
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 234
+ []\EU1/STHeiti(0)/bx/n/10 193
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 235
+ []\EU1/STHeiti(0)/bx/n/10 193
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 236
+ []\EU1/STHeiti(0)/bx/n/10 195
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 237
+ []\EU1/STHeiti(0)/bx/n/10 197
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 238
+ []\EU1/STHeiti(0)/bx/n/10 199
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 239
+ []\EU1/STHeiti(0)/bx/n/10 202
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 241
+ []\EU1/STHeiti(0)/bx/n/10 203
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 242
+ []\EU1/STHeiti(0)/bx/n/10 203
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 243
+ []\EU1/STHeiti(0)/bx/n/10 204
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 244
+ []\EU1/STHeiti(0)/bx/n/10 204
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 245
+ []\EU1/STHeiti(0)/bx/n/10 206
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 246
+ []\EU1/STHeiti(0)/bx/n/10 207
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 247
+ []\EU1/STHeiti(0)/bx/n/10 209
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 248
+ []\EU1/STHeiti(0)/bx/n/10 210
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 249
+ []\EU1/STHeiti(0)/bx/n/10 210
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 250
+ []\EU1/STHeiti(0)/bx/n/10 210
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 251
+ []\EU1/STHeiti(0)/bx/n/10 211
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 252
+ []\EU1/STHeiti(0)/bx/n/10 211
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 253
+ []\EU1/STHeiti(0)/bx/n/10 211
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 254
+ []\EU1/STHeiti(0)/bx/n/10 212
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 255
+ []\EU1/STHeiti(0)/bx/n/10 212
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 256
+ []\EU1/STHeiti(0)/bx/n/10 213
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 257
+ []\EU1/STHeiti(0)/bx/n/10 213
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 258
+ []\EU1/STHeiti(0)/bx/n/10 213
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 259
+ []\EU1/STHeiti(0)/bx/n/10 213
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 260
+ []\EU1/STHeiti(0)/bx/n/10 215
+ []
+
+[8]
+Overfull \hbox (1.1195pt too wide) detected at line 261
+ []\EU1/STHeiti(0)/bx/n/10 217
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 262
+ []\EU1/STHeiti(0)/bx/n/10 223
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 264
+ []\EU1/STHeiti(0)/bx/n/10 225
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 265
+ []\EU1/STHeiti(0)/bx/n/10 226
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 266
+ []\EU1/STHeiti(0)/bx/n/10 228
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 267
+ []\EU1/STHeiti(0)/bx/n/10 230
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 268
+ []\EU1/STHeiti(0)/bx/n/10 233
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 269
+ []\EU1/STHeiti(0)/bx/n/10 234
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 270
+ []\EU1/STHeiti(0)/bx/n/10 236
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 271
+ []\EU1/STHeiti(0)/bx/n/10 237
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 272
+ []\EU1/STHeiti(0)/bx/n/10 238
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 273
+ []\EU1/STHeiti(0)/bx/n/10 238
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 274
+ []\EU1/STHeiti(0)/bx/n/10 242
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 275
+ []\EU1/STHeiti(0)/bx/n/10 243
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 276
+ []\EU1/STHeiti(0)/bx/n/10 244
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 277
+ []\EU1/STHeiti(0)/bx/n/10 244
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 278
+ []\EU1/STHeiti(0)/bx/n/10 244
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 279
+ []\EU1/STHeiti(0)/bx/n/10 247
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 280
+ []\EU1/STHeiti(0)/bx/n/10 247
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 281
+ []\EU1/STHeiti(0)/bx/n/10 248
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 282
+ []\EU1/STHeiti(0)/bx/n/10 249
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 283
+ []\EU1/STHeiti(0)/bx/n/10 249
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 284
+ []\EU1/STHeiti(0)/bx/n/10 250
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 285
+ []\EU1/STHeiti(0)/bx/n/10 252
+ []
+
+
+Overfull \hbox (1.1195pt too wide) detected at line 286
+ []\EU1/STHeiti(0)/bx/n/10 255
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [9] [10
+
+]
+Chapter 1.
+File: figures/1.1.png Graphic file (type QTm)
+<use  "figures/1.1.png" >
+Underfull \vbox (badness 1221) has occurred while \output is active []
+
+ [1
+
+]
+File: figures/1.2.png Graphic file (type QTm)
+
+<use  "figures/1.2.png" > [2]
+File: figures/1.3.png Graphic file (type QTm)
+ <use  "figures/1.3.png" > [3]
+File: figures/1.4.png Graphic file (type QTm)
+
+<use  "figures/1.4.png" >
+File: figures/1.5.png Graphic file (type QTm)
+ <use  "figures/1.5.png" > [4] [5]
+File: figures/1.6.png Graphic file (type QTm)
+
+<use  "figures/1.6.png" > [6] [7]
+File: figures/1.7.png Graphic file (type QTm)
+ <use  "figures/1.7.png" > [8] [9] [10]
+[11] [12
+
+]
+Chapter 2.
+[13]
+File: figures/2.1.png Graphic file (type QTm)
+ <use  "figures/2.1.png" > [14] [15] [16]
+Underfull \vbox (badness 1052) has occurred while \output is active []
+
+ [17]
+[18] [19] [20] [21]
+Underfull \vbox (badness 1755) has occurred while \output is active []
+
+ [22]
+[23] [24] [25] [26] [27]
+LaTeX Font Info:    Font shape `EU1/STHeiti(1)/m/n' will be
+(Font)              scaled to size 6.80005pt on input line 1067.
+
+
+LaTeX Font Warning: Font shape `EU1/STHeiti(0)/m/it' undefined
+(Font)              using `EU1/STHeiti(0)/m/n' instead on input line 1088.
+
+[28] [29] [30]
+File: figures/2.2.png Graphic file (type QTm)
+ <use  "figures/2.2.png" > [31] [32] [33] [34] [35] [36] [37]
+[38] [39] [40] [41] [42] [43] [44] [45] [46
+
+]
+Chapter 3.
+[47]
+File: figures/3.1.png Graphic file (type QTm)
+ <use  "figures/3.1.png" >
+File: figures/3.2.png Graphic file (type QTm)
+ <use  "figures/3.2.png" >
+File: figures/3.3.png Graphic file (type QTm)
+
+<use  "figures/3.3.png" > [48]
+File: figures/3.4.png Graphic file (type QTm)
+ <use  "figures/3.4.png" >
+File: figures/3.5.png Graphic file (type QTm)
+
+<use  "figures/3.5.png" >
+File: figures/3.6.png Graphic file (type QTm)
+ <use  "figures/3.6.png" >
+File: figures/3.7.png Graphic file (type QTm)
+ <use  "figures/3.7.png" >
+[49]
+File: figures/3.8.png Graphic file (type QTm)
+ <use  "figures/3.8.png" > [50]
+File: figures/3.9.png Graphic file (type QTm)
+ <use  "figures/3.9.png" > [51]
+File: figures/3.10.png Graphic file (type QTm)
+
+<use  "figures/3.10.png" >
+File: figures/3.11.png Graphic file (type QTm)
+ <use  "figures/3.11.png" >
+File: figures/3.12.png Graphic file (type QTm)
+
+<use  "figures/3.12.png" > [52]
+File: figures/3.13.png Graphic file (type QTm)
+ <use  "figures/3.13.png" > [53]
+File: figures/3.14.png Graphic file (type QTm)
+
+<use  "figures/3.14.png" > [54]
+File: figures/3.15.png Graphic file (type QTm)
+ <use  "figures/3.15.png" >
+File: figures/3.16.png Graphic file (type QTm)
+
+<use  "figures/3.16.png" > [55]
+File: figures/3.17.png Graphic file (type QTm)
+ <use  "figures/3.17.png" > [56] [57] [58]
+[59]
+File: figures/3.18.png Graphic file (type QTm)
+ <use  "figures/3.18.png" >
+File: figures/3.19.png Graphic file (type QTm)
+ <use  "figures/3.19.png" >
+Overfull \hbox (28.61205pt too wide) in paragraph at lines 2158--2159
+[]\EU1/STHeiti(0)/bx/n/10 你 可 以 用 这 招 维 护 不 同 层 次 的 �
+�� 定 性。 某 些 大 项 目 还 会 有 个 \EU1/STHeiti(1)/m/n/10 propos
+ed\EU1/STHeiti(0)/bx/n/10 （建 议） 或 \EU1/STHeiti(1)/m/n/10 pu\EU1/STHei
+ti(0)/bx/n/10 （proposed
+ []
+
+[60]
+File: figures/3.20.png Graphic file (type QTm)
+ <use  "figures/3.20.png" > [61]
+File: figures/3.21.png Graphic file (type QTm)
+ <use  "figures/3.21.png" >
+File: figures/3.22.png Graphic file (type QTm)
+
+<use  "figures/3.22.png" >
+
+LaTeX Font Warning: Font shape `EU1/STHeiti(1)/bx/n' undefined
+(Font)              using `EU1/STHeiti(1)/m/n' instead on input line 2184.
+
+LaTeX Font Info:    Font shape `EU1/STHeiti(1)/bx/n' will be
+(Font)              scaled to size 8.50006pt on input line 2184.
+File: figures/3.23.png Graphic file (type QTm)
+<use  "figures/3.23.png" >
+File: figures/3.24.png Graphic file (type QTm)
+ <use  "figures/3.24.png" > [62]
+File: figures/3.25.png Graphic file (type QTm)
+
+<use  "figures/3.25.png" >
+File: figures/3.26.png Graphic file (type QTm)
+ <use  "figures/3.26.png" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [63]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [64]
+[65] [66]
+File: figures/3.27.png Graphic file (type QTm)
+ <use  "figures/3.27.png" >
+File: figures/3.28.png Graphic file (type QTm)
+ <use  "figures/3.28.png" > [67]
+File: figures/3.29.png Graphic file (type QTm)
+
+<use  "figures/3.29.png" >
+File: figures/3.30.png Graphic file (type QTm)
+ <use  "figures/3.30.png" > [68]
+File: figures/3.31.png Graphic file (type QTm)
+
+<use  "figures/3.31.png" >
+File: figures/3.32.png Graphic file (type QTm)
+ <use  "figures/3.32.png" > [69]
+File: figures/3.33.png Graphic file (type QTm)
+
+<use  "figures/3.33.png" >
+File: figures/3.34.png Graphic file (type QTm)
+ <use  "figures/3.34.png" > [70]
+File: figures/3.35.png Graphic file (type QTm)
+
+<use  "figures/3.35.png" >
+File: figures/3.36.png Graphic file (type QTm)
+ <use  "figures/3.36.png" >
+File: figures/3.37.png Graphic file (type QTm)
+
+<use  "figures/3.37.png" >
+File: figures/3.38.png Graphic file (type QTm)
+ <use  "figures/3.38.png" >
+File: figures/3.39.png Graphic file (type QTm)
+
+<use  "figures/3.39.png" > [71] [72] [73] [74
+
+]
+Chapter 4.
+[75] [76] [77] [78] [79] [80] [81] [82] [83] [84]
+File: figures/4.1.png Graphic file (type QTm)
+ <use  "figures/4.1.png" >
+[85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95]
+Overfull \hbox (11.32506pt too wide) in paragraph at lines 3170--3171
+[]\EU1/STHeiti(0)/m/it/10 Gitolite also has a feature called “personal branch
+es” (or rather, “personal branch
+ []
+
+[96]
+Overfull \hbox (1.30432pt too wide) in paragraph at lines 3208--3209
+[]\EU1/STHeiti(0)/m/it/10 Mirroring: Gitolite can help you maintain multiple mi
+rrors, and switch between them
+ []
+
+[97] [98] [99]
+File: figures/4.2.png Graphic file (type QTm)
+ <use  "figures/4.2.png" >
+File: figures/4.3.png Graphic file (type QTm)
+ <use  "figures/4.3.png" > [100]
+File: figures/4.4.png Graphic file (type QTm)
+
+<use  "figures/4.4.png" >
+File: figures/4.5.png Graphic file (type QTm)
+ <use  "figures/4.5.png" >
+File: figures/4.6.png Graphic file (type QTm)
+ <use  "figures/4.6.png" >
+[101]
+File: figures/4.7.png Graphic file (type QTm)
+ <use  "figures/4.7.png" >
+File: figures/4.8.png Graphic file (type QTm)
+ <use  "figures/4.8.png" > [102]
+File: figures/4.9.png Graphic file (type QTm)
+
+<use  "figures/4.9.png" >
+File: figures/4.10.png Graphic file (type QTm)
+ <use  "figures/4.10.png" >
+File: figures/4.11.png Graphic file (type QTm)
+
+<use  "figures/4.11.png" > [103]
+File: figures/4.12.png Graphic file (type QTm)
+ <use  "figures/4.12.png" >
+File: figures/4.13.png Graphic file (type QTm)
+
+<use  "figures/4.13.png" > [104]
+File: figures/4.14.png Graphic file (type QTm)
+ <use  "figures/4.14.png" >
+File: figures/4.15.png Graphic file (type QTm)
+
+<use  "figures/4.15.png" > [105] [106]
+Chapter 5.
+File: figures/5.1.png Graphic file (type QTm)
+<use  "figures/5.1.png" > [107
+
+]
+File: figures/5.2.png Graphic file (type QTm)
+ <use  "figures/5.2.png" > [108]
+File: figures/5.3.png Graphic file (type QTm)
+
+<use  "figures/5.3.png" > [109] [110] [111] [112]
+File: figures/5.4.png Graphic file (type QTm)
+ <use  "figures/5.4.png" >
+File: figures/5.5.png Graphic file (type QTm)
+
+<use  "figures/5.5.png" >
+File: figures/5.6.png Graphic file (type QTm)
+ <use  "figures/5.6.png" >
+File: figures/5.7.png Graphic file (type QTm)
+ <use  "figures/5.7.png" >
+[113]
+File: figures/5.8.png Graphic file (type QTm)
+ <use  "figures/5.8.png" > [114] [115]
+File: figures/5.9.png Graphic file (type QTm)
+ <use  "figures/5.9.png" >
+File: figures/5.10.png Graphic file (type QTm)
+
+<use  "figures/5.10.png" >
+File: figures/5.11.png Graphic file (type QTm)
+ <use  "figures/5.11.png" > [116] [117]
+File: figures/5.12.png Graphic file (type QTm)
+
+<use  "figures/5.12.png" > [118] [119]
+File: figures/5.13.png Graphic file (type QTm)
+ <use  "figures/5.13.png" >
+File: figures/5.14.png Graphic file (type QTm)
+
+<use  "figures/5.14.png" >
+File: figures/5.15.png Graphic file (type QTm)
+ <use  "figures/5.15.png" > [120] [121] [122]
+File: figures/5.16.png Graphic file (type QTm)
+
+<use  "figures/5.16.png" >
+File: figures/5.17.png Graphic file (type QTm)
+ <use  "figures/5.17.png" > [123]
+File: figures/5.18.png Graphic file (type QTm)
+
+<use  "figures/5.18.png" > [124] [125] [126] [127] [128] [129] [130] [131]
+[132]
+File: figures/5.19.png Graphic file (type QTm)
+ <use  "figures/5.19.png" >
+File: figures/5.20.png Graphic file (type QTm)
+ <use  "figures/5.20.png" > [133]
+File: figures/5.21.png Graphic file (type QTm)
+
+<use  "figures/5.21.png" >
+File: figures/5.22.png Graphic file (type QTm)
+ <use  "figures/5.22.png" >
+File: figures/5.23.png Graphic file (type QTm)
+
+<use  "figures/5.23.png" > [134]
+File: figures/5.24.png Graphic file (type QTm)
+ <use  "figures/5.24.png" >
+File: figures/5.25.png Graphic file (type QTm)
+
+<use  "figures/5.25.png" > [135]
+File: figures/5.26.png Graphic file (type QTm)
+ <use  "figures/5.26.png" >
+File: figures/5.27.png Graphic file (type QTm)
+
+<use  "figures/5.27.png" > [136] [137] [138] [139] [140
+
+]
+Chapter 6.
+[141] [142] [143] [144] [145]
+File: figures/6.1.png Graphic file (type QTm)
+ <use  "figures/6.1.png" >
+Overfull \hbox (8.16806pt too wide) in paragraph at lines 4655--4656
+[]\EU1/STHeiti(0)/m/it/10 你 想 要 查 看 你 的 试 验 分 支 上 哪 �
+�� 没 有 被 提 交 到 主 分 支， 那 么 你 就 可 以 使 用 \EU1/
+STHeiti(1)/bx/n/10 master..experiment
+ []
+
+[146] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157]
+[158]
+Overfull \hbox (4.81255pt too wide) in paragraph at lines 5158--5159
+[]\EU1/STHeiti(0)/m/it/10 当 你 保 存 并 退 出 编 辑 器， Git 将 �
+� 支 倒 回 至 这 些 提 交 的 父 提 交， 应 用\EU1/STHeiti(1)/bx/
+n/10 310154e\EU1/STHeiti(0)/m/it/10 ， 然 后\EU1/STHeiti(1)/bx/n/10 f7f3f6d\
+EU1/STHeiti(0)/m/it/10 ，
+ []
+
+[159]
+Overfull \hbox (3.86774pt too wide) in paragraph at lines 5204--5205
+\EU1/STHeiti(0)/m/it/10 成 两 次 提 交： 第 一 次 为“updated README
+ formatting”， 第 二 次 为“added blame”。
+ []
+
+[160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171]
+[172] [173] [174]
+Chapter 7.
+[175
+
+] [176] [177] [178] [179]
+File: figures/7.1.png Graphic file (type QTm)
+ <use  "figures/7.1.png" > [180] [181] [182]
+[183] [184] [185] [186]
+File: figures/7.2.png Graphic file (type QTm)
+ <use  "figures/7.2.png" >
+File: figures/7.3.png Graphic file (type QTm)
+ <use  "figures/7.3.png" >
+Overfull \hbox (22.98236pt too wide) in paragraph at lines 6222--6223
+[]\EU1/STHeiti(0)/m/it/10 这 里 举 一 个 简 单 的 例 子： 在 暂 �
+� 前， 用\EU1/STHeiti(1)/bx/n/10 indent\EU1/STHeiti(0)/m/it/10 （缩 进）
+ 程 序 过 滤 所 有 C 源 代 码。 在\EU1/STHeiti(1)/bx/n/10 .gitattrib
+utes\EU1/STHeiti(0)/m/it/10 文
+ []
+
+[187] [188]
+Overfull \hbox (27.23145pt too wide) in paragraph at lines 6291--6292
+\EU1/STHeiti(0)/m/it/10 式 的 简 码 在 任 何 文 件 中 放 入\EU1/STH
+eiti(1)/bx/n/10 $Format: $ \EU1/STHeiti(0)/m/it/10 字 符 串。 例 如， �
+� 果 想 在 项 目 中 包 含 一 个 叫 作\EU1/STHeiti(1)/bx/n/10 LAST_C
+OMMIT\EU1/STHeiti(0)/m/it/10 的
+ []
+
+[189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200]
+[201] [202]
+Chapter 8.
+[203
+
+] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214]
+[215] [216] [217] [218] [219] [220] [221] [222] [223] [224
+
+]
+Chapter 9.
+[225] [226] [227]
+File: figures/9.1.png Graphic file (type QTm)
+ <use  "figures/9.1.png" > [228]
+Overfull \hbox (5.2752pt too wide) in paragraph at lines 7737--7738
+[]\EU1/STHeiti(0)/m/it/10 在 本 例 中， 指 定 了 文 件 模 式 为 \E
+U1/STHeiti(1)/bx/n/10 100644\EU1/STHeiti(0)/m/it/10 ， 表 明 这 是 一 个
+ 普 通 文 件。 其 他 可 用 的 模 式 有：\EU1/STHeiti(1)/bx/n/10 1
+00755
+ []
+
+[229]
+File: figures/9.2.png Graphic file (type QTm)
+ <use  "figures/9.2.png" > [230] [231] [232]
+File: figures/9.3.png Graphic file (type QTm)
+ <use  "figures/9.3.png" >
+[233] [234]
+File: figures/9.4.png Graphic file (type QTm)
+ <use  "figures/9.4.png" > [235] [236] [237] [238] [239] [240]
+[241] [242]
+Overfull \hbox (1.2037pt too wide) in paragraph at lines 8274--8275
+[]\EU1/STHeiti(0)/m/it/10 你 也 可 以 在 配 置 文 件 中 指 定 多 �
+�� refspec. 如 你 想 在 每 次 获 取 时 都 获 取 \EU1/STHeiti(1)/bx/
+n/10 master \EU1/STHeiti(0)/m/it/10 和 \EU1/STHeiti(1)/bx/n/10 experiment
+ []
+
+[243] [244] [245] [246]
+Overfull \hbox (17.13943pt too wide) in paragraph at lines 8464--8464
+[]\EU1/STHeiti(1)/bx/n/10 0085ca82a6dff817ec66f44342007202690a93763949  1502795
+7951b64cf874c3557a0f3547bd83b3ff6 refs/
+ []
+
+
+Overfull \hbox (24.59679pt too wide) in paragraph at lines 8464--8464
+[]\EU1/STHeiti(1)/bx/n/10 00670000000000000000000000000000000000000000 cdfdb425
+77e2506715f8cfeacdbabc092bf63e8d refs/
+ []
+
+[247] [248] [249] [250] [251] [252] [253] [254]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 8771.
+ [255]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 8771.
+
+(/private/tmp/progit/latex/zh/main.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 8771.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 8771.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 8771.
+ ) 
+Here is how much of TeX's memory you used:
+ 18988 strings out of 495253
+ 375481 string characters out of 3177098
+ 420786 words of memory out of 3000000
+ 21884 multiletter control sequences out of 15000+200000
+ 7472 words of font info for 49 fonts, out of 3000000 for 9000
+ 314 hyphenation exceptions out of 8191
+ 42i,12n,51p,733b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on /private/tmp/progit/latex/zh/main.pdf (265 pages).
