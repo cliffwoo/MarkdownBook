@@ -1,25 +1,9 @@
-# 第一章标题 #
+# 前言
 
-## 样例章节
+## 名词
 
-- Project Name : Markdownbook
-- Details: Markdownbook is ebook framework which is extracted from the progit project
-
-## ProGit Project
-Progit 项目是一本关于Git的电子书,项目主页为
-
-	https://github.com/progit/progit/
-
-## Insert Picture
-
-注意，目前的版本，如果要插入图片，需要以如下的形式命名
-后续修改 latex/makepdf 来进行优化
-
-Insert 18333fig0101.png
-Figure 1-1.  iPhone 界面.
-
-
-
-
-
-
+- 项目代号: HIAPI，人肉，人肉 API，人肉云，平台
+- 候选产品名称：开弓乐，众乐乐
+- 候选口号：时间就是金钱，人的力量
+- 文中表示发包方的名词：发包方、发包者、企业、Requester
+- 文中表示承包方的名词：承包方、承包者、劳动者、劳工、Worker、人肉、判官
