@@ -12,6 +12,5 @@ latex/*
 epub/temp
 *~
 .#*
-figures/*
 */*.session
 .DS_Store

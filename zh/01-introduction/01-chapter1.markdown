@@ -1,5 +1,6 @@
+# 第一章标题 #
 
-## 样例章节 
+## 样例章节
 
 - Project Name : Markdownbook
 - Details: Markdownbook is ebook framework which is extracted from the progit project
@@ -9,7 +10,7 @@ Progit 项目是一本关于Git的电子书,项目主页为
 
 	https://github.com/progit/progit/
 
-## Insert Picture 
+## Insert Picture
 
 注意，目前的版本，如果要插入图片，需要以如下的形式命名
 后续修改 latex/makepdf 来进行优化
