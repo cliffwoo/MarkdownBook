@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.2.12)  13 FEB 2013 07:53
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.2.12)  13 FEB 2013 08:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1257,385 +1257,53 @@ Overfull \hbox (1.1195pt too wide) detected at line 194
 
  [7] [8
 
+] [1] [2
+
 ]
 Chapter 1.
-File: figures/1.1.png Graphic file (type QTm)
-<use  "figures/1.1.png" >
-Underfull \vbox (badness 1221) has occurred while \output is active []
-
- [1
-
-]
-File: figures/1.2.png Graphic file (type QTm)
-
-<use  "figures/1.2.png" > [2]
-File: figures/1.3.png Graphic file (type QTm)
- <use  "figures/1.3.png" > [3]
-File: figures/1.4.png Graphic file (type QTm)
-
-<use  "figures/1.4.png" >
-File: figures/1.5.png Graphic file (type QTm)
- <use  "figures/1.5.png" > [4]
 LaTeX Font Info:    Font shape `EU1/STHeiti(1)/m/n' will be
-(Font)              scaled to size 8.50006pt on input line 231.
- [5]
-File: figures/1.6.png Graphic file (type QTm)
-
-<use  "figures/1.6.png" > [6] [7]
-File: figures/1.7.png Graphic file (type QTm)
- <use  "figures/1.7.png" > [8] [9] [10]
-[11] [12
-
-]
-Chapter 2.
-[13]
-File: figures/2.1.png Graphic file (type QTm)
- <use  "figures/2.1.png" > [14] [15] [16]
+(Font)              scaled to size 8.50006pt on input line 183.
+[3]
+File: figures/1.1.png Graphic file (type QTm)
+ <use  "figures/1.1.png" > [4] [5] [6]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
- [17]
-[18] [19] [20] [21]
+ [7]
+[8] [9] [10] [11]
 Underfull \vbox (badness 1755) has occurred while \output is active []
 
- [22]
-[23] [24] [25] [26] [27]
+ [12]
+[13] [14] [15] [16] [17]
 LaTeX Font Info:    Font shape `EU1/STHeiti(1)/m/n' will be
-(Font)              scaled to size 6.80005pt on input line 1067.
+(Font)              scaled to size 6.80005pt on input line 790.
 
 
 LaTeX Font Warning: Font shape `EU1/STHeiti(0)/m/it' undefined
-(Font)              using `EU1/STHeiti(0)/m/n' instead on input line 1088.
+(Font)              using `EU1/STHeiti(0)/m/n' instead on input line 811.
 
-[28] [29] [30]
+[18] [19] [20]
+File: figures/1.2.png Graphic file (type QTm)
+ <use  "figures/1.2.png" > [21] [22] [23] [24] [25] [26] [27]
+[28] [29] [30] [31] [32] [33] [34] [35] [36
+
+]
+Chapter 2.
+[37]
+File: figures/2.1.png Graphic file (type QTm)
+ <use  "figures/2.1.png" >
 File: figures/2.2.png Graphic file (type QTm)
- <use  "figures/2.2.png" > [31] [32] [33] [34] [35] [36] [37]
-[38] [39] [40] [41] [42] [43] [44] [45] [46
+ <use  "figures/2.2.png" >
 
-]
-Chapter 3.
-[47]
-File: figures/3.1.png Graphic file (type QTm)
- <use  "figures/3.1.png" >
-File: figures/3.2.png Graphic file (type QTm)
- <use  "figures/3.2.png" >
-File: figures/3.3.png Graphic file (type QTm)
+LaTeX Warning: File `figures/2.3.png' not found on input line 1503.
 
-<use  "figures/3.3.png" > [48]
-File: figures/3.4.png Graphic file (type QTm)
- <use  "figures/3.4.png" >
-File: figures/3.5.png Graphic file (type QTm)
-
-<use  "figures/3.5.png" >
-File: figures/3.6.png Graphic file (type QTm)
- <use  "figures/3.6.png" >
-File: figures/3.7.png Graphic file (type QTm)
- <use  "figures/3.7.png" >
-[49]
-File: figures/3.8.png Graphic file (type QTm)
- <use  "figures/3.8.png" > [50]
-File: figures/3.9.png Graphic file (type QTm)
- <use  "figures/3.9.png" > [51]
-File: figures/3.10.png Graphic file (type QTm)
-
-<use  "figures/3.10.png" >
-File: figures/3.11.png Graphic file (type QTm)
- <use  "figures/3.11.png" >
-File: figures/3.12.png Graphic file (type QTm)
-
-<use  "figures/3.12.png" > [52]
-File: figures/3.13.png Graphic file (type QTm)
- <use  "figures/3.13.png" > [53]
-File: figures/3.14.png Graphic file (type QTm)
-
-<use  "figures/3.14.png" > [54]
-File: figures/3.15.png Graphic file (type QTm)
- <use  "figures/3.15.png" >
-File: figures/3.16.png Graphic file (type QTm)
-
-<use  "figures/3.16.png" > [55]
-File: figures/3.17.png Graphic file (type QTm)
- <use  "figures/3.17.png" > [56] [57] [58]
-[59]
-File: figures/3.18.png Graphic file (type QTm)
- <use  "figures/3.18.png" >
-File: figures/3.19.png Graphic file (type QTm)
- <use  "figures/3.19.png" >
-Overfull \hbox (28.61205pt too wide) in paragraph at lines 2158--2159
-[]\EU1/STHeiti(0)/bx/n/10 你 可 以 用 这 招 维 护 不 同 层 次 的 �
-�� 定 性。 某 些 大 项 目 还 会 有 个 \EU1/STHeiti(1)/m/n/10 propos
-ed\EU1/STHeiti(0)/bx/n/10 （建 议） 或 \EU1/STHeiti(1)/m/n/10 pu\EU1/STHei
-ti(0)/bx/n/10 （proposed
- []
-
-[60]
-File: figures/3.20.png Graphic file (type QTm)
- <use  "figures/3.20.png" > [61]
-File: figures/3.21.png Graphic file (type QTm)
- <use  "figures/3.21.png" >
-File: figures/3.22.png Graphic file (type QTm)
-
-<use  "figures/3.22.png" >
-
-LaTeX Font Warning: Font shape `EU1/STHeiti(1)/bx/n' undefined
-(Font)              using `EU1/STHeiti(1)/m/n' instead on input line 2184.
-
-LaTeX Font Info:    Font shape `EU1/STHeiti(1)/bx/n' will be
-(Font)              scaled to size 8.50006pt on input line 2184.
-File: figures/3.23.png Graphic file (type QTm)
-<use  "figures/3.23.png" >
-File: figures/3.24.png Graphic file (type QTm)
- <use  "figures/3.24.png" > [62]
-File: figures/3.25.png Graphic file (type QTm)
-
-<use  "figures/3.25.png" >
-File: figures/3.26.png Graphic file (type QTm)
- <use  "figures/3.26.png" >
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [63]
-Underfull \vbox (badness 1394) has occurred while \output is active []
-
- [64]
-[65] [66]
-File: figures/3.27.png Graphic file (type QTm)
- <use  "figures/3.27.png" >
-File: figures/3.28.png Graphic file (type QTm)
- <use  "figures/3.28.png" > [67]
-File: figures/3.29.png Graphic file (type QTm)
-
-<use  "figures/3.29.png" >
-File: figures/3.30.png Graphic file (type QTm)
- <use  "figures/3.30.png" > [68]
-File: figures/3.31.png Graphic file (type QTm)
-
-<use  "figures/3.31.png" >
-File: figures/3.32.png Graphic file (type QTm)
- <use  "figures/3.32.png" > [69]
-File: figures/3.33.png Graphic file (type QTm)
-
-<use  "figures/3.33.png" >
-File: figures/3.34.png Graphic file (type QTm)
- <use  "figures/3.34.png" > [70]
-File: figures/3.35.png Graphic file (type QTm)
-
-<use  "figures/3.35.png" >
-File: figures/3.36.png Graphic file (type QTm)
- <use  "figures/3.36.png" >
-File: figures/3.37.png Graphic file (type QTm)
-
-<use  "figures/3.37.png" >
-File: figures/3.38.png Graphic file (type QTm)
- <use  "figures/3.38.png" >
-File: figures/3.39.png Graphic file (type QTm)
-
-<use  "figures/3.39.png" > [71] [72] [73] [74
-
-]
-Chapter 4.
-[75]
-
-LaTeX Warning: Hyper reference `chap:9' on page 76 undefined on input line 2434
-.
-
-[76] [77]
-
-LaTeX Warning: Hyper reference `chap:7' on page 78 undefined on input line 2496
-.
-
-
-LaTeX Warning: Hyper reference `chap:9' on page 78 undefined on input line 2512
-.
-
-[78]
-
-LaTeX Warning: Hyper reference `chap:9' on page 79 undefined on input line 2526
-.
-
-[79] [80] [81] [82] [83] [84]
-File: figures/4.1.png Graphic file (type QTm)
- <use  "figures/4.1.png" > [85] [86] [87] [88]
-[89] [90] [91] [92] [93] [94] [95]
-Overfull \hbox (11.32506pt too wide) in paragraph at lines 3170--3171
-[]\EU1/STHeiti(0)/m/it/10 Gitolite also has a feature called “personal branch
-es” (or rather, “personal branch
- []
-
-[96]
-Overfull \hbox (1.30432pt too wide) in paragraph at lines 3208--3209
-[]\EU1/STHeiti(0)/m/it/10 Mirroring: Gitolite can help you maintain multiple mi
-rrors, and switch between them
- []
-
-[97] [98] [99]
-File: figures/4.2.png Graphic file (type QTm)
- <use  "figures/4.2.png" >
-File: figures/4.3.png Graphic file (type QTm)
- <use  "figures/4.3.png" > [100]
-File: figures/4.4.png Graphic file (type QTm)
-
-<use  "figures/4.4.png" >
-File: figures/4.5.png Graphic file (type QTm)
- <use  "figures/4.5.png" >
-File: figures/4.6.png Graphic file (type QTm)
- <use  "figures/4.6.png" >
-[101]
-File: figures/4.7.png Graphic file (type QTm)
- <use  "figures/4.7.png" >
-File: figures/4.8.png Graphic file (type QTm)
- <use  "figures/4.8.png" > [102]
-File: figures/4.9.png Graphic file (type QTm)
-
-<use  "figures/4.9.png" >
-
-LaTeX Warning: Hyper reference `chap:7' on page 103 undefined on input line 336
-7.
-
-File: figures/4.10.png Graphic file (type QTm)
-<use  "figures/4.10.png" >
-File: figures/4.11.png Graphic file (type QTm)
- <use  "figures/4.11.png" > [103]
-File: figures/4.12.png Graphic file (type QTm)
-
-<use  "figures/4.12.png" >
-File: figures/4.13.png Graphic file (type QTm)
- <use  "figures/4.13.png" > [104]
-File: figures/4.14.png Graphic file (type QTm)
-
-<use  "figures/4.14.png" >
-File: figures/4.15.png Graphic file (type QTm)
- <use  "figures/4.15.png" > [105] [106]
-Chapter 5.
-File: figures/5.1.png Graphic file (type QTm)
-<use  "figures/5.1.png" > [107
-
-]
-File: figures/5.2.png Graphic file (type QTm)
- <use  "figures/5.2.png" > [108]
-File: figures/5.3.png Graphic file (type QTm)
-
-<use  "figures/5.3.png" > [109] [110] [111] [112]
-File: figures/5.4.png Graphic file (type QTm)
- <use  "figures/5.4.png" >
-File: figures/5.5.png Graphic file (type QTm)
-
-<use  "figures/5.5.png" >
-File: figures/5.6.png Graphic file (type QTm)
- <use  "figures/5.6.png" >
-File: figures/5.7.png Graphic file (type QTm)
- <use  "figures/5.7.png" >
-[113]
-File: figures/5.8.png Graphic file (type QTm)
- <use  "figures/5.8.png" > [114] [115]
-File: figures/5.9.png Graphic file (type QTm)
- <use  "figures/5.9.png" >
-File: figures/5.10.png Graphic file (type QTm)
-
-<use  "figures/5.10.png" >
-File: figures/5.11.png Graphic file (type QTm)
- <use  "figures/5.11.png" > [116] [117]
-File: figures/5.12.png Graphic file (type QTm)
-
-<use  "figures/5.12.png" > [118] [119]
-File: figures/5.13.png Graphic file (type QTm)
- <use  "figures/5.13.png" >
-File: figures/5.14.png Graphic file (type QTm)
-
-<use  "figures/5.14.png" >
-File: figures/5.15.png Graphic file (type QTm)
- <use  "figures/5.15.png" > [120] [121] [122]
-File: figures/5.16.png Graphic file (type QTm)
-
-<use  "figures/5.16.png" >
-File: figures/5.17.png Graphic file (type QTm)
- <use  "figures/5.17.png" > [123]
-File: figures/5.18.png Graphic file (type QTm)
-
-<use  "figures/5.18.png" > [124] [125] [126] [127] [128] [129] [130] [131]
-[132]
-File: figures/5.19.png Graphic file (type QTm)
- <use  "figures/5.19.png" >
-File: figures/5.20.png Graphic file (type QTm)
- <use  "figures/5.20.png" > [133]
-File: figures/5.21.png Graphic file (type QTm)
-
-<use  "figures/5.21.png" >
-File: figures/5.22.png Graphic file (type QTm)
- <use  "figures/5.22.png" >
-File: figures/5.23.png Graphic file (type QTm)
-
-<use  "figures/5.23.png" > [134]
-File: figures/5.24.png Graphic file (type QTm)
- <use  "figures/5.24.png" >
-File: figures/5.25.png Graphic file (type QTm)
-
-<use  "figures/5.25.png" > [135]
-File: figures/5.26.png Graphic file (type QTm)
- <use  "figures/5.26.png" >
-File: figures/5.27.png Graphic file (type QTm)
-
-<use  "figures/5.27.png" > [136] [137] [138] [139] [140
-
-]
-Chapter 6.
-[141] [142]
-
-LaTeX Warning: Hyper reference `chap:9' on page 143 undefined on input line 451
-4.
-
-[143] [144] [145]
-File: figures/6.1.png Graphic file (type QTm)
- <use  "figures/6.1.png" >
-Overfull \hbox (8.16806pt too wide) in paragraph at lines 4655--4656
-[]\EU1/STHeiti(0)/m/it/10 你 想 要 查 看 你 的 试 验 分 支 上 哪 �
-�� 没 有 被 提 交 到 主 分 支， 那 么 你 就 可 以 使 用 \EU1/
-STHeiti(1)/bx/n/10 master..experiment
- []
-
-[146] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157]
-[158]
-Overfull \hbox (4.81255pt too wide) in paragraph at lines 5158--5159
-[]\EU1/STHeiti(0)/m/it/10 当 你 保 存 并 退 出 编 辑 器， Git 将 �
-� 支 倒 回 至 这 些 提 交 的 父 提 交， 应 用\EU1/STHeiti(1)/bx/
-n/10 310154e\EU1/STHeiti(0)/m/it/10 ， 然 后\EU1/STHeiti(1)/bx/n/10 f7f3f6d\
-EU1/STHeiti(0)/m/it/10 ，
- []
-
-[159]
-Overfull \hbox (3.86774pt too wide) in paragraph at lines 5204--5205
-\EU1/STHeiti(0)/m/it/10 成 两 次 提 交： 第 一 次 为“updated README
- formatting”， 第 二 次 为“added blame”。
- []
-
-[160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171]
-[172]
-
-LaTeX Warning: Hyper reference `chap:9' on page 173 undefined on input line 570
-4.
-
-[173]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 5744.
- [174]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 5744.
- (/Users/Cliff/Documents/Repo/MarkdownBook/latex/zh/main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 5744.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 5744.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 5744.
- ) 
-Here is how much of TeX's memory you used:
- 18940 strings out of 495253
- 375179 string characters out of 3177098
- 413961 words of memory out of 3000000
- 21843 multiletter control sequences out of 15000+200000
- 7472 words of font info for 49 fonts, out of 3000000 for 9000
- 314 hyphenation exceptions out of 8191
- 42i,12n,51p,754b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
-
-Output written on /Users/Cliff/Documents/Repo/MarkdownBook/latex/zh/main.pdf (1
-82 pages).
+! Unable to load picture or PDF file 'figures/2.3.png'.
+<to be read again> 
+                   }
+l.1503 ...从某个提交对象往回看的历史}
+                                                  
+? 
+! Interruption.
+\G@measure@QTm ...Xquote \space }\fi \piccommand }
+                                                  \dimen 0=\wd 0 \dimen 2=\h...
+l.1503 ...从某个提交对象往回看的历史}
+   
