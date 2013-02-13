@@ -1,10 +1,10 @@
+latex/*
 *.*.pdf
 *.*.mobi
 *.*.epub
 *.*.html
 *-*.epub
 *.swp
-latex/*
 !latex/makepdf
 !latex/README
 !latex/template.tex
@@ -14,3 +14,4 @@ epub/temp
 .#*
 figures/*
 */*.session
+.DS_Store
