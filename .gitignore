@@ -1,5 +1,5 @@
 latex/*
-*.pdf
+pdf/*.pdf
 *.mobi
 *.epub
 *.html
