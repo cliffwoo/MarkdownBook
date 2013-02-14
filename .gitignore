@@ -1,9 +1,9 @@
 latex/*
-*.*.pdf
-*.*.mobi
-*.*.epub
-*.*.html
-*-*.epub
+*.pdf
+*.mobi
+*.epub
+*.html
+*.epub
 *.swp
 !latex/makepdf
 !latex/README

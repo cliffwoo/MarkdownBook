@@ -189,8 +189,8 @@ figures do
 		end
 
 		unless abort
-			print "\tMoving output to progit.#{lang}.pdf... "
-                        mv("#{dir}/main.pdf", "#$root/progit.#{lang}.pdf")
+			print "\tMoving output to #{lang}.pdf... "
+                        mv("#{dir}/main.pdf", "#$root/#{lang}.pdf")
 			puts "done"
 		end
 	end
