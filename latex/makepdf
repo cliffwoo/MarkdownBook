@@ -8,6 +8,7 @@ include FileUtils
 
 $here = File.expand_path(File.dirname(__FILE__))
 $root = File.join($here, '..')
+$manuscript = File.join($root, 'manuscript')
 $outDir = File.join($root, 'pdf')
 
 def figures(&block)
@@ -24,6 +25,7 @@ def figures(&block)
 end
 
 def usage
+	puts $manuscript
 	puts <<USAGE
 Usage:
   makepdf [OPTION...] LANGUAGE [LANGUAGE 2...]
@@ -129,7 +131,8 @@ def post_pandoc(string, config)
 end
 
 ARGV.delete_if{|arg| $DEBUG = true if arg == '-d' or arg == '--debug'}
-languages = ARGV.select{|arg| File.directory?("#$root/#{arg}")}
+languages = ARGV.select{|arg| File.directory?("#$manuscript/#{arg}")}
+puts languages
 usage if languages.empty?
 
 $config = YAML.load_file("#$here/config.yml")
@@ -147,7 +150,7 @@ figures do
 		config = $config['default'].merge($config[lang]) rescue $config['default']
 		puts config['bookname']
 		puts "#{lang}:"
-		markdown = Dir["#$root/#{lang}/*/*.markdown"].sort.map do |file|
+		markdown = Dir["#$manuscript/#{lang}/*/*.markdown"].sort.map do |file|
 			File.read(file)
 		end.join("\n\n")
 

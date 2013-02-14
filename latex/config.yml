@@ -14,6 +14,22 @@ default:
   indent: "\\qquad"
   bookname: "MarkdownBook"
   thanks: "Customize your own thanks with editting latex/config.yml : \\url{http://your.domain}"
+en:
+  font: Helvetica
+  bold: "{* Bold}"
+  mono: Andale Mono
+  prechap: "Chapter "
+  postchap: ""
+  presect: "Section "
+  postsect: ""
+  dql: "“"
+  dqr: "”"
+  con: "Contents"
+  fig: "Figure "
+  tab: "Table "
+  indent: "\\qquad"
+  bookname: "MarkdownBook"
+  thanks: "Customize your own thanks with editting latex/config.yml : \\url{http://your.domain}"
 zh:
   langrule: "\\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em\n\\XeTeXlinebreakpenalty=0"
   font: STHeiti

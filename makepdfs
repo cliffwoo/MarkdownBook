@@ -2,9 +2,10 @@
 
 baseDir=`dirname $0`
 outputDir=${baseDir}/pdf
+manuscript=${baseDir}/manuscript
 
 exclude=('figures' 'figures-dia' 'figures-source' 'latex' 'makepdfs' 'pdf' 'README')
-dirContent=`ls $baseDir`
+dirContent=`ls $manuscript`
 argString=""
 
   echo $i;
