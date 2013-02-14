@@ -25,7 +25,6 @@ def figures(&block)
 end
 
 def usage
-	puts $manuscript
 	puts <<USAGE
 Usage:
   makepdf [OPTION...] LANGUAGE [LANGUAGE 2...]
@@ -132,7 +131,6 @@ end
 
 ARGV.delete_if{|arg| $DEBUG = true if arg == '-d' or arg == '--debug'}
 languages = ARGV.select{|arg| File.directory?("#$manuscript/#{arg}")}
-puts languages
 usage if languages.empty?
 
 $config = YAML.load_file("#$here/config.yml")
@@ -148,7 +146,6 @@ end
 figures do
 	languages.each do |lang|
 		config = $config['default'].merge($config[lang]) rescue $config['default']
-		puts config['bookname']
 		puts "#{lang}:"
 		markdown = Dir["#$manuscript/#{lang}/*/*.markdown"].sort.map do |file|
 			File.read(file)
