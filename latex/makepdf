@@ -145,7 +145,7 @@ end
 figures do
 	languages.each do |lang|
 		config = $config['default'].merge($config[lang]) rescue $config['default']
-
+		puts config['bookname']
 		puts "#{lang}:"
 		markdown = Dir["#$root/#{lang}/*/*.markdown"].sort.map do |file|
 			File.read(file)
@@ -189,8 +189,8 @@ figures do
 		end
 
 		unless abort
-			print "\tMoving output to #{lang}.pdf... "
-                        mv("#{dir}/main.pdf", "#$root/#{lang}.pdf")
+			print "\tMoving output to #{config['bookname']}.#{lang}.pdf... "
+                        mv("#{dir}/main.pdf", "#$root/#{config['bookname']}.#{lang}.pdf")
 			puts "done"
 		end
 	end

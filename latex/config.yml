@@ -12,6 +12,7 @@ default:
   fig: "Figure "
   tab: "Table "
   indent: "\\qquad"
+  bookname: "MarkdownBook"
   thanks: "Customize your own thanks with editting latex/config.yml : \\url{http://your.domain}"
 zh:
   langrule: "\\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em\n\\XeTeXlinebreakpenalty=0"
@@ -26,6 +27,7 @@ zh:
   fig: "图 "
   tab: "表 "
   indent: "文"
+  bookname: "MarkdownBook"
 zh-tw:
   langrule: "\\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em\n\\XeTeXlinebreakpenalty=0"
   font: AR PL UMing TW
