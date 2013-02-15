@@ -1,4 +1,4 @@
-# Sample
+# Example
 
 ## Insert Image
 
