@@ -4,35 +4,25 @@ MarkdownBook is a ebook framework which is extracted from [ProGit Project](https
 
 ## Requirement
 
-### Mac
+### Pandoc ###
 
-#### Ruby & Gems
+	http://johnmacfarlane.net/pandoc/installing.html
+
+### Texlive ###
+
+	http://www.tug.org/mactex/morepackages.html
+
+### Ruby & Gems
+
+#### Mac ####
 
 - Install ruby & rubygems
 - Install rdiscount
 
 	gem install rdiscount
 
-#### Pandoc ####
-
-	http://johnmacfarlane.net/pandoc/installing.html
-
-#### Texlive ####
-
-	http://www.tug.org/mactex/morepackages.html
-	
-### Linux
-
-
-#### Ruby & Gems
+#### Linux ####
 
 	$ yum install ruby calibre rubygems ruby-devel rubygem-ruby-debug rubygem-rdiscount
 
-#### Pandoc ####
-
-	http://johnmacfarlane.net/pandoc/installing.html
-
-#### Texlive ####
-
-	http://www.tug.org/mactex/morepackages.html
 	
