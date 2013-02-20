@@ -11,6 +11,8 @@ $root = File.join($here, '..')
 $manuscript = File.join($root, 'manuscript')
 $outDir = File.join($root, 'pdf')
 
+puts $outDir
+
 def figures(&block)
 	begin
 		Dir["#$root/figures/18333*.png"].each do |file|
@@ -63,15 +65,15 @@ def pre_pandoc(string, config)
 	replace(string) do
 		# Pandoc discards #### subsubsections #### - this hack recovers them
 		# be careful to try to match the longest sharp string first
-		s /\#\#\#\#\# (.*?) \#\#\#\#\#/, 'PARAGRAPH: \1'
-		s /\#\#\#\# (.*?) \#\#\#\#/, 'SUBSUBSECTION: \1'
+		s(/\#\#\#\#\# (.*?) \#\#\#\#\#/, 'PARAGRAPH: \1')
+		s(/\#\#\#\# (.*?) \#\#\#\#/, 'SUBSUBSECTION: \1')
 
 		# Turns URLs into clickable links
-		s /\`(http:\/\/[A-Za-z0-9\/\%\&\=\-\_\\\.\(\)\#]+)\`/, '<\1>'
-		s /(\n\n)\t(http:\/\/[A-Za-z0-9\/\%\&\=\-\_\\\.\(\)\#]+)\n([^\t]|\t\n)/, '\1<\2>\1'
+		s(/\`(http:\/\/[A-Za-z0-9\/\%\&\=\-\_\\\.\(\)\#]+)\`/, '<\1>')
+		s(/(\n\n)\t(http:\/\/[A-Za-z0-9\/\%\&\=\-\_\\\.\(\)\#]+)\n([^\t]|\t\n)/, '\1<\2>\1')
 
 		# Process figures
-		s /Insert\s18333fig\d+\.png\s*\n.*?\d{1,2}-\d{1,2}\. (.*)/, 'FIG: \1'
+		s(/Insert\s18333fig\d+\.png\s*\n.*?\d{1,2}-\d{1,2}\. (.*)/, 'FIG: \1')
 	end
 end
 
@@ -82,30 +84,30 @@ def post_pandoc(string, config)
 		# Reformat for the book documentclass as opposed to article
 		s '\section', '\chap'
 		s '\sub', '\\'
-		s /SUBSUBSECTION: (.*)/, '\subsubsection{\1}'
-		s /PARAGRAPH: (.*)/, '\paragraph{\1}'
+		s(/SUBSUBSECTION: (.*)/, '\subsubsection{\1}')
+		s(/PARAGRAPH: (.*)/, '\paragraph{\1}')
 
 		# Enable proper cross-reference
-		s /#{config['fig'].gsub(space, '\s')}\s*(\d+)\-\-(\d+)/, '\imgref{\1.\2}'
-		s /#{config['tab'].gsub(space, '\s')}\s*(\d+)\-\-(\d+)/, '\tabref{\1.\2}'
-		s /#{config['prechap'].gsub(space, '\s')}\s*(\d+)(\s*)#{config['postchap'].gsub(space, '\s')}/, '\chapref{\1}\2'
+		s(/#{config['fig'].gsub(space, '\s')}\s*(\d+)\-\-(\d+)/, '\imgref{\1.\2}')
+		s(/#{config['tab'].gsub(space, '\s')}\s*(\d+)\-\-(\d+)/, '\tabref{\1.\2}')
+		s(/#{config['prechap'].gsub(space, '\s')}\s*(\d+)(\s*)#{config['postchap'].gsub(space, '\s')}/, '\chapref{\1}\2')
 
 		# Miscellaneous fixes
-		s /FIG: (.*)/, '\img{\1}'
-		s '\begin{enumerate}[1.]', '\begin{enumerate}'
-		s /(\w)--(\w)/, '\1-\2'
-		s /``(.*?)''/, "#{config['dql']}\\1#{config['dqr']}"
+		s(/FIG: (.*)/, '\img{\1}')
+		s('\begin{enumerate}[1.]', '\begin{enumerate}')
+		s(/(\w)--(\w)/, '\1-\2')
+		s(/``(.*?)''/, "#{config['dql']}\\1#{config['dqr']}")
 
 		# Typeset the maths in the book with TeX
-		s '\verb!p = (n(n-1)/2) * (1/2^160))!', '$p = \frac{n(n-1)}{2} \times \frac{1}{2^{160}}$)'
-		s '2\^{}80', '$2^{80}$'
-		s /\sx\s10\\\^\{\}(\d+)/, '\e{\1}'
+		s('\verb!p = (n(n-1)/2) * (1/2^160))!', '$p = \frac{n(n-1)}{2} \times \frac{1}{2^{160}}$)')
+		s('2\^{}80', '$2^{80}$')
+		s(/\sx\s10\\\^\{\}(\d+)/, '\e{\1}')
 
 		# Convert inline-verbatims into \texttt (which is able to wrap)
-		s /\\verb(\W)(.*?)\1/ ,'\\texttt{\2}'
+		s(/\\verb(\W)(.*?)\1/ ,'\\texttt{\2}')
 
 		# Make Tables 2-1..2-3 actual tables
-		s /\\begin\{verbatim\}\n(([^\t\n]+\t.*?\n)+)(([^\t\n]*)\n)?\\end\{verbatim\}/ do
+		s(/\\begin\{verbatim\}\n(([^\t\n]+\t.*?\n)+)(([^\t\n]*)\n)?\\end\{verbatim\}/) do
 			$cap = $4
 			"\\begin{table}[ht!]
 				\\refstepcounter{tab}
@@ -125,7 +127,7 @@ def post_pandoc(string, config)
 		end
 
 		# Shaded verbatim block
-		s /(\\begin\{verbatim\}.*?\\end\{verbatim\})/m, '\begin{shaded}\1\end{shaded}'
+		s(/(\\begin\{verbatim\}.*?\\end\{verbatim\})/m, '\begin{shaded}\1\end{shaded}')
 	end
 end
 
@@ -189,7 +191,7 @@ figures do
 		end
 
 		unless abort
-			print "\tMoving output to #{config['bookname']}.#{lang}.pdf... "
+			print "\tMoving output to #{config['bookfilename']}.#{lang}.pdf... "
                         mv("#{dir}/main.pdf", "#$outDir/#{config['bookname']}.#{lang}.pdf")
 			puts "done"
 		end
