@@ -11,8 +11,6 @@ $root = File.join($here, '..')
 $manuscript = File.join($root, 'manuscript')
 $outDir = File.join($root, 'pdf')
 
-puts $outDir
-
 def figures(&block)
 	begin
 		Dir["#$root/figures/18333*.png"].each do |file|
