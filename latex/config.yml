@@ -12,7 +12,9 @@ default:
   fig: "Figure "
   tab: "Table "
   indent: "\\qquad"
-  bookname: "MarkdownBook"
+  booktitle: "Book Title (edit latex/config.yml)"
+  bookfilename: "MarkdownBook"
+  author: "Author Name (edit latex/config.yml)"
   thanks: "Edit latex/config.yml : \\url{http://your.domain}"
 en:
   font: Helvetica
@@ -28,8 +30,6 @@ en:
   fig: "Figure "
   tab: "Table "
   indent: "\\qquad"
-  thanks: "Edit latex/config.yml : \\url{http://your.domain}"
-  bookname: "MarkdownBook"
 zh:
   langrule: "\\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em\n\\XeTeXlinebreakpenalty=0"
   font: STHeiti
@@ -43,7 +43,6 @@ zh:
   fig: "图 "
   tab: "表 "
   indent: "文"
-  bookname: "MarkdownBook"
 zh-tw:
   langrule: "\\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em\n\\XeTeXlinebreakpenalty=0"
   font: AR PL UMing TW
@@ -110,7 +109,7 @@ es:
   presect: "Sección "
   fig: "Figura "
   tab: "Tabla "
-  con: "Contenidos "  
+  con: "Contenidos "
 mk:
   fig: "Слика"
   con: "Содржина"
@@ -130,7 +129,7 @@ ko:
   langrule: "\\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em\n\\XeTeXlinebreakpenalty=0"
   font: NanumMyeongjo
   bold: "{* Bold}"
-  mono: NanumGothicCoding 
+  mono: NanumGothicCoding
   prechap: ""
   postchap: "장"
   presect: ""
