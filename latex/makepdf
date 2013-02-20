@@ -192,7 +192,7 @@ figures do
 
 		unless abort
 			print "\tMoving output to #{config['bookfilename']}.#{lang}.pdf... "
-                        mv("#{dir}/main.pdf", "#$outDir/#{config['bookname']}.#{lang}.pdf")
+                        mv("#{dir}/main.pdf", "#$outDir/#{config['bookfilename']}.#{lang}.pdf")
 			puts "done"
 		end
 	end
