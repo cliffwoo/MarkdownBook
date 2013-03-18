@@ -34,7 +34,7 @@ MarkdownBook is a ebook framework which is extracted from [ProGit Project](https
 
 	./makepdfs
 
-### Make Specific  Tranlation
+### Make Specific  Translation
 
  Make English Version
 
